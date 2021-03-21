@@ -39,7 +39,7 @@ To run this app simply follow the steps below:
 
 ### Usage
 
-- Just click this link and enjoy creating articles [Blog-App](https://awesomeblog12.herokuapp.com/articles)
+- [Blog-app]('https://awesomeblog12.herokuapp.com/articles') Just click Blog-app link and enjoy creating articles
 
 ### Description
 
